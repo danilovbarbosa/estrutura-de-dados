@@ -10,7 +10,7 @@ Este projeto é mantido como fonte para um objeto de aprendizagem da disciplina 
 * gcc 4.8.5
 
 ### CONVENÇÕES
-Convenções adotadas no ambiente de trabalho para o projeto XXX:
+Convenções adotadas no ambiente de trabalho para o projeto:
 * Regra para nome de classes, structs, etc: **nome.<tipo_arquivo>**
 * Para as tabelas devem possuir 's' no final;
 * Todas as `classes` devem ser representadas por um substantivos e não um verbo: Clientes, Contatos, Perfil, Configurações, etc;
