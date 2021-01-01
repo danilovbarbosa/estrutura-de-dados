@@ -7,7 +7,12 @@ Conjunto de códigos fontes que são respostas para diversos desafíos presentes
 Este projeto é mantido como fonte para um objeto de aprendizagem da disciplina Programação procedural e estrutura de dados.
 
 ### INSTALAÇÃO LOCAL
-* gcc 4.8.5
+* gcc 4.8.X
+* Python 3.X
+
+### CONTROLE DE VERSÃO
+* git 
+* git flow
 
 ### CONVENÇÕES
 Convenções adotadas no ambiente de trabalho para o projeto:
