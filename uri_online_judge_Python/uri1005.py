@@ -1,10 +1,6 @@
 A = float(input(''))
 B = float(input(''))
 
-A = A * 3.5 
-B = B * 7.5
+media = ((A * 3.5) + (B * 7.5)) / 11
 
-MEDIA: float = (A + B) / 11
-
-MEDIA = round(MEDIA, 5)
-print(f'MEDIA = {MEDIA}')
+print('MEDIA = {:.5f}'.format(media))
